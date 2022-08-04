@@ -1,4 +1,8 @@
-**PLEASE VISIT THE DEMO FOLDER FOR A DEMO OF THIS PROJECT**
+**PLEASE VISIT THE FOLLOWING PICTURES FOR A DEMO OF THIS PROJECT**
+
+https://ibb.co/Lg5mZ0L
+
+https://ibb.co/R0GsHyC
 
 # RstruiAutomation
 This project automates the system restoration using **rstrui.exe**.
